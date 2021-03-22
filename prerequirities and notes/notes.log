@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.2.23)  22 MAR 2021 12:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.2.23)  22 MAR 2021 15:36
 entering extended mode
 **./notes.tex
 (notes.tex
@@ -828,35 +828,72 @@ LaTeX Font Warning: Font shape `TU/BZAR.TTF(0)/b/n' undefined
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
+LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 27.
+LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 27.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 27.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 27.
+LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 37.
+LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/b/n' will be
+(Font)              scaled to size 17.27994pt on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 46.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 46.
 
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 50.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 50.
+
+
+Overfull \hbox (2.21896pt too wide) in paragraph at lines 51--54
+[]\TU/BZAR.TTF(0)/m/n/12 من در گیت‌هاب $\OML/cmm/m/it/12 mmehrani$ \TU/BZAR.TTF
+(0)/m/n/12 است و می‌توانید با مراجعه به آدرس $\OML/cmm/m/it/12 github:com=mmehr
+ani$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
+[][]
+ []
+
+LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/m/n' will be
+(Font)              scaled to size 8.39998pt on input line 67.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
  (notes.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 39.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package rerunfilecheck Info: File `notes.out' has not changed.
+(rerunfilecheck)             Checksum: 7CFA10BA78F0CB7D43FBAA12309B5417;622.
 
-
-Package rerunfilecheck Warning: File `notes.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `notes.out':
-(rerunfilecheck)             Before: B01D49D3141CDC9D30773C252ED94FA4;54
-(rerunfilecheck)             After:  40CE8F8ADAAC0243A789003A1727DD28;45.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17644 strings out of 414602
- 319080 string characters out of 2910870
- 688777 words of memory out of 3000000
- 34496 multiletter control sequences out of 15000+200000
- 534286 words of font info for 58 fonts, out of 3000000 for 9000
+ 17688 strings out of 414602
+ 319940 string characters out of 2910870
+ 690777 words of memory out of 3000000
+ 34527 multiletter control sequences out of 15000+200000
+ 537963 words of font info for 76 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 51i,8n,79p,1150b,381s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,9n,79p,1150b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on notes.pdf (1 page).
+Output written on notes.pdf (2 pages).
