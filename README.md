@@ -5,4 +5,9 @@ this is the repository which we will use for the workshop.
 - we added some lines.
 - minor bug fixes :)
 
-<p align='right'>Farhan Khan</p>
+<p align='right'>
+این یک خط آزمایشی است.
+# تنظیمات
+## ایتدا
+
+</p>
