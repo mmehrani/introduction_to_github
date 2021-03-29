@@ -1,10 +1,21 @@
 # Introduction_to_github
 this is the repository which we will use for the workshop.
 
-Holded workshops:
-1 - Spring 2021: At scientific physics association of Sharif University of Technology. 
+#### Holded workshops:
+
+- Spring 2021: At scientific physics association of Sharif University of Technology. 
+
+# Git commands
+
+## Crucial SSH key settings
+
+Before starting Git we need to connect our local device to the [github](https://https://github.com/) account. please follow the two steps bellow:
+
+- [Generating a new SSH key](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Adding a new SSH key to your GitHub account](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 
 ## Initial settings
+
 For the only and first time let `git` know you!
 ```
 git config --global user.name "Your Name"
@@ -62,5 +73,17 @@ git branch
 git merge
 ```
 ## Working in groups
-
-## Conflicts
+#### It is important to always pull all the recent updates and then start your own one. to do so:
+```
+git pull
+```
+#### Put everyone task to his own branch to avoid conflicts. Use branching and merging turn by turn.
+```
+git checkout -b <branch_name>
+git checkout <branch_name>
+git merge
+```
+### Merge conflicts
+Occurs in two cases:
+- Somebody have made some changes to `your branch`
+- You have changed some lines which have been also changed in `main` stream
