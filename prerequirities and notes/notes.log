@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.2.23)  22 MAR 2021 15:36
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.2.23)  22 MAR 2021 20:34
 entering extended mode
 **./notes.tex
 (notes.tex
@@ -838,60 +838,59 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 7.0pt on input line 27.
 LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/b/n' will be
 (Font)              scaled to size 20.73593pt on input line 37.
-LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 46.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 46.
+Overfull \hbox (10.05148pt too wide) in paragraph at lines 41--43
+[][]\TU/BZAR.TTF(0)/m/n/12 نسخه‌های متفاوت از کدهامان را به صورت منظم نگهداری ک
+نیم و نیازی به فولدرسازی‌های[]
+ []
 
 [1
 
 ]
+LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/b/n' will be
+(Font)              scaled to size 17.27994pt on input line 52.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 50.
+(hyperref)                removing `math shift' on input line 52.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 50.
+(hyperref)                removing `math shift' on input line 52.
 
 
-Overfull \hbox (2.21896pt too wide) in paragraph at lines 51--54
-[]\TU/BZAR.TTF(0)/m/n/12 من در گیت‌هاب $\OML/cmm/m/it/12 mmehrani$ \TU/BZAR.TTF
-(0)/m/n/12 است و می‌توانید با مراجعه به آدرس $\OML/cmm/m/it/12 github:com=mmehr
-ani$[]
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 56.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--54
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 56.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
 [][]
  []
 
 LaTeX Font Info:    Font shape `TU/BZAR.TTF(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 67.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+(Font)              scaled to size 8.39998pt on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
  (notes.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 72.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 7CFA10BA78F0CB7D43FBAA12309B5417;622.
+(rerunfilecheck)             Checksum: 6F558DCBD136175664D6198DF4F3765C;635.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17688 strings out of 414602
- 319940 string characters out of 2910870
- 690777 words of memory out of 3000000
- 34527 multiletter control sequences out of 15000+200000
+ 17690 strings out of 414602
+ 319967 string characters out of 2910870
+ 691777 words of memory out of 3000000
+ 34529 multiletter control sequences out of 15000+200000
  537963 words of font info for 76 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  51i,9n,79p,1150b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
