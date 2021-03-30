@@ -82,6 +82,8 @@ git merge <branch_name>
 #### It is important to always pull all the recent updates and then start your own one. to do so:
 ```
 git pull
+git pull origin
+git pull origin <branch_name>
 ```
 #### Put everyone task to his own branch to avoid conflicts. Use branching and merging turn by turn.
 ```
