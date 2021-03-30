@@ -53,7 +53,12 @@ git commit -m "Minor Bug fixed!"
 ```
 git push
 ```
-
+## Reverting a file to its previous commit:
+Find the `commit ID` of that previous one. Indicate the path of the file which you mean `path/to/file`. Then call `git` to revert it:
+```
+git checkout [commit ID] -- path/to/file
+```
+you may find [This page](https://dev.to/lofiandcode/git-and-github-how-to-revert-a-single-file-dha) useful.
 ## Manage issues and ideas
 
 #### Make a new branch to start your work on a copy of the project
