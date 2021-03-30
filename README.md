@@ -68,9 +68,10 @@ git checkout <branch_name>
 git branch
 ```
 
-### Merge current branch to the main:
+### Merge one branch to the main:
+Firstly checkout your branch to `main`. Being the branch `main`, use the command below
 ```
-git merge
+git merge <branch_name>
 ```
 ## Working in groups
 #### It is important to always pull all the recent updates and then start your own one. to do so:
